@@ -168,7 +168,7 @@
  }
 
  /* Media Section */
- @media (min-width: 575.95px) and (max-width: 992px) {
+ @media (min-width: 480px) and (max-width: 992px) {
    #title {
      text-align: center;
    }
